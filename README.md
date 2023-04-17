@@ -1,4 +1,3 @@
-## Praktikum TPM
+## Praktikum TPM Tugas 1
 ### Nama  : Dinda Aisyah Novitasari
 ### NIM   : 123200006
-### Tugas berada di branch masing-masing
